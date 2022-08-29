@@ -105,10 +105,24 @@ this is how to add a new branch. `branch1` is the name of sample branch.
 
 # run - git log (can see fetched)
 
--------------someone change our repo and we have our repo fixed and want to have our changes on git repo--------
+-------------pening `pull request`--------
 
 # run - git pull origin master
 
 # git push origin master
 
 # git pull origin master
+
+---
+
+# run- git remote --v
+
+//thats how yu check what files are in totally added.
+
+# run - git remote
+
+//gives you the name of remote
+
+# run - git branch
+
+//gives ya branch name
